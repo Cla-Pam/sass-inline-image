@@ -1,6 +1,6 @@
 {
   "name": "sass-inline-image",
-  "version": "0.0.4-dependencies-updated",
+  "version": "0.0.4-svg-updated",
   "description": "inline images as base64, PAM",
   "main": "index.js",
   "scripts": {},
